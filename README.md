@@ -1,6 +1,8 @@
 # 🧮 Basic Calculator
 
 A straightforward, user-friendly calculator created with **HTML**, **CSS**, and **JavaScript**. It allows basic arithmetic operations: addition, subtraction, multiplication, and division.
+You can play the game live here: [Live Demo](https://ahmad-bradii.github.io/Basic-Calculator/)  
+
 
 ---
 
